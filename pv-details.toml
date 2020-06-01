@@ -1,0 +1,5 @@
+namespace = "default"
+capacity = "1Ti"
+storageClass = "local-storage"
+hosts = [ "example-node1", "example-node2" ]
+paths = [ "/mnt/disks/ssd1", "/mnt/disks/ssd2" ]
